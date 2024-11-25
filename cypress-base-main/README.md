@@ -88,7 +88,8 @@ npx cypress run --spec cypress/integration/<test_file_name>.js
 ```
 .
 ├── cypress
-│   ├── integration        # Contains test cases
+│   ├── e2e                # Contains test cases
+│   ├── controler          # Contains controler extend base controller
 │   ├── model              # Contains query and command models
 │   ├── service            # Contains service layer implementations
 │   ├── utils              # Contains utility functions
