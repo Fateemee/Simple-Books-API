@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://simple-books-api.glitch.me",
+  "env": {
+    "environment": "dev",
+    "cyLogStyles": "info"
+  },
+  "video": false,
+  "screenshotOnRunFailure": false,
+  "timeout": 70000,
+  "responseTimeout": 200000
+}
